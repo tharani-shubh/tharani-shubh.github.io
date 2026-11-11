@@ -1,2 +1,26 @@
-# tharani-shubh.github.io
-Kashin Games
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fusball Privacy Policy — KashIn Games</title>
+<style>body{max-width:760px;margin:48px auto;padding:0 24px;background:#020613;color:#f7fbff;font:17px/1.65 system-ui}h1,h2,a{color:#ffc73d}.draft{border:1px solid #ffc73d;padding:16px}</style>
+<main>
+<p class="draft">DRAFT FOR PUBLISHER REVIEW. Review the SDK disclosures and retention practices against the final release, remove this draft notice and publish on a public HTTPS webpage before submitting to Google Play.</p>
+<h1>Fusball Privacy Policy</h1>
+<p>Prepared 10 November 2026. Publisher: KashIn Games. Contact: <a href="mailto:kashingames28@gmail.com">kashingames28@gmail.com</a>.</p>
+<h2>Game progress on your device</h2>
+<p>Fusball stores your game settings, tutorial completion, level, currency balances, unlocked items and purchase-processing history on your device. The game does not currently require an account or provide an online multiplayer service. Local multiplayer uses one device.</p>
+<h2>Ads and privacy choices</h2>
+<p>Fusball integrates Google Mobile Ads for rewarded ads and other ad placements. Google and its advertising partners may process device identifiers, IP addresses, approximate location derived from IP, ad interactions and diagnostic information to deliver and measure ads, prevent fraud and maintain their services. Google’s User Messaging Platform presents consent choices where required. Where available, use “Ad privacy” in the currency shop to revisit advertising privacy choices.</p>
+<p>Learn more about <a href="https://policies.google.com/technologies/ads">Google advertising data use</a> and <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a>. Ad availability and privacy controls depend on your region and the configured services.</p>
+<h2>Purchases</h2>
+<p>Optional purchases use Google Play Billing. Google processes payment information under its own terms. Fusball receives purchase details, including product identifiers, purchase tokens and signed purchase records, to verify purchases, grant items and avoid duplicate grants. The game does not receive your complete payment-card details.</p>
+<h2>Diagnostics</h2>
+<p>The game includes optional Sentry error reporting. When enabled in the distributed release, error reports can include exception details, stack traces, app version and technical device or runtime information. The integration disables default personal information and local-variable capture. <a href="https://sentry.io/privacy/">Sentry’s Privacy Policy</a> describes its service practices. The publisher must confirm whether reporting is enabled and document applicable retention before publication.</p>
+<h2>Retention, deletion and contact</h2>
+<p>Local progress and purchase-processing history remain on your device until you clear app storage or uninstall the game. Clearing local data removes saved progress and may affect locally recorded purchased currency and items. Google and other service providers retain their own records according to their policies and applicable obligations; uninstalling the game does not delete those records.</p>
+<p>Contact <a href="mailto:kashingames28@gmail.com">kashingames28@gmail.com</a> for privacy questions or requests involving information held by KashIn Games. Information controlled by Google or other service providers may require a request to that provider.</p>
+<h2>Audience and policy changes</h2>
+<p>The publisher must confirm the intended age audience and any additional child-directed requirements before release. If game features or data practices change, this policy will be updated with the relevant effective date.</p>
+</main>
+</html>
